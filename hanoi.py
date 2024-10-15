@@ -3,6 +3,7 @@ def main():
     A='A'
     B='B'
     C='C'
+    print('are you following?')
     print(Hanoi(x,A,B,C))
 
 def Hanoi(n, A,B,C):
